@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/memory-game/precache-manifest.ef47c19ce1f4475f7f6f1a18ebbb0d3c.js"
+  "/Big-Bang-Game/precache-manifest.0e1a422fd9bd5dd6182c0af2c6c5575d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/memory-game/index.html", {
+workbox.routing.registerNavigationRoute("/Big-Bang-Game/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
