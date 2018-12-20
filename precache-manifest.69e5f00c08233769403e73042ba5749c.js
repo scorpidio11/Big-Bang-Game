@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/Big-Bang-Game/static/js/main.9f115eda.chunk.js"
   },
   {
-    "revision": "9c49b1657f794805e3dd",
-    "url": "/Big-Bang-Game/static/js/1.9c49b165.chunk.js"
+    "revision": "3ad5f8a614c5e526e94e",
+    "url": "/Big-Bang-Game/static/js/1.3ad5f8a6.chunk.js"
   },
   {
     "revision": "9f115eda43f549ded359",
     "url": "/Big-Bang-Game/static/css/main.43946f92.chunk.css"
   },
   {
-    "revision": "a81320af126ba35797c709a56aba2b67",
+    "revision": "c6c718883f5f89ed185f13da4452300f",
     "url": "/Big-Bang-Game/index.html"
   }
 ];

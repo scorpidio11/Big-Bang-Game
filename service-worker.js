@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Big-Bang-Game/precache-manifest.0e1a422fd9bd5dd6182c0af2c6c5575d.js"
+  "/Big-Bang-Game/precache-manifest.69e5f00c08233769403e73042ba5749c.js"
 );
 
 workbox.clientsClaim();
