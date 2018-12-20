@@ -10,4 +10,4 @@ Click on each image once to win the game. If you click the same image twice you 
 
 ## Live Link
 
-https://dashboard.heroku.com/apps/bigbang-clickygame/deploy/github
+https://bigbang-clickygame.herokuapp.com/
